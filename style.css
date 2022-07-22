@@ -60,7 +60,7 @@ section {
     width: 20vw;
     height: 25vh;
     border: 2px solid black;
-    
+    cursor: pointer;
 }
 
 .box h3 {
