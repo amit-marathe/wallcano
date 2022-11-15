@@ -50,7 +50,7 @@ section {
 .boxes {
     display: flex;
     height: 100%;
-    width: 90%;
+    width: 80%;
     flex-wrap: wrap;
     justify-content: center;
 }
